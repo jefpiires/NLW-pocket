@@ -1,4 +1,3 @@
-import { useEffect, useState } from 'react'
 import { CreateGoal } from './components/create-goal'
 import { EmpityGoals } from './components/empity-goals'
 import { Summary } from './components/summary'
